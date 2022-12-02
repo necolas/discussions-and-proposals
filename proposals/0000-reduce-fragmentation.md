@@ -445,6 +445,7 @@ Support major units where supported by CSS.
 * [ ] `px` units.
 * [ ] `v*` units.
 * [ ] `%` units.
+* [ ] `calc()` calculations.
 
 ## CSS Animations
 
